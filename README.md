@@ -14,3 +14,6 @@ the contribution rules, They are located in the `CONTRIB.md` file.
 ## License
 This project is licensed under the `MIT` license.
 You can read the entire thing in the `LICENSE.md` file.
+
+The license has been modified to disallow projects forking / others
+using the same exact name. (DOES NOT APPLY TO `pytemplate`)

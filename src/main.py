@@ -5,4 +5,4 @@ name = input('Name: ');
 if name:
 	sayHello(name);
 else:
-	print('You don\' have a name, I guess?');
+	print('You don\'t have a name, I guess?');
